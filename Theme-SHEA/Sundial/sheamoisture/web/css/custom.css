@@ -1,0 +1,19 @@
+ul.footer.links{
+	float:left;
+	display:inline-flex;	
+	width: 100%;
+}
+.footer.links > li.nav.item {
+    border-left: 1px solid #512C1D;
+    padding: inherit;
+	width: 100%;
+}
+.footer.links > li.nav.item:first-child {
+    border: none;
+}
+.header.panel > .header.links > li{
+	border-right: 1px Solid #512C1D;
+}
+.header.panel > .header.links > li:last-child {
+	border: none;
+}
